@@ -1,1 +1,1 @@
-Azure App Service configuration and publishing of a backend HTML API example
+Azure App Service configuration and publishing of a HTML blog example
